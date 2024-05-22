@@ -8,7 +8,7 @@ Description: For this task, I created a simple landing page using HTML, CSS and 
 
 Solution: To view the code and the live demo, navigate to the [Landing Page](https://github.com/ShivangSaxena05/CodSoft/tree/main/Landing-Page-Task-1) directory
 
-Live Preview: [Landing Page Live Demo](sweet-candy.great-site.net)
+Live Preview: [Landing Page Live Demo](http://sweet-candy.great-site.net)
 
 ## Task 2: Profile Page (HTML/CSS)
 
