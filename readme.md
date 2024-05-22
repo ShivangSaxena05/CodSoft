@@ -8,6 +8,8 @@ Description: For this task, I created a simple landing page using HTML, CSS and 
 
 Solution: To view the code and the live demo, navigate to the [Landing Page](https://github.com/ShivangSaxena05/CodSoft/tree/main/Landing-Page-Task-1) directory
 
+### Landing Page Screenshot
+![](https://raw.githubusercontent.com/ShivangSaxena05/CodSoft/main/Landing-Page-Task-1/shots/Landing.png)
 Live Preview: [Landing Page Live Demo](http://sweet-candy.great-site.net)
 
 ## Task 2: Profile Page (HTML/CSS)
@@ -16,6 +18,11 @@ Description: In this task, I built a profile page using HTML and CSS. The profil
 
 Solution: To explore the code and interact with the profile page, visit the [Profile Page](https://github.com/ShivangSaxena05/CodSoft/tree/main/Portfolio-Task-2) directory.
 
+
+### Portfolio Screenshot
+![](https://raw.githubusercontent.com/ShivangSaxena05/CodSoft/main/Portfolio-Task-2/shot/Portfolio.png)
+
+
 Live Preview: [Profile Page Live Demo](http://shivangsaxena-portfolio.42web.io)
 
 ## Task 3: Calculator (HTML/CSS/JavaScript)
@@ -23,5 +30,6 @@ Live Preview: [Profile Page Live Demo](http://shivangsaxena-portfolio.42web.io)
 Description: The third task involved creating a calculator application using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 Solution: Check out the [Calculator](https://github.com/ShivangSaxena05/CodSoft/tree/main/Calculator-Task-3) directory to see the code.
-
+### Calculator Screenshot
+![](https://raw.githubusercontent.com/ShivangSaxena05/CodSoft/main/Calculator-Task-3/shot/calc-shot.png)
 Live Preview: [Calculator Live Demo](http://simple-calculator.42web.io)
