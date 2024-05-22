@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border: 2px solid red;
+    margin: 0 auto;
+    display: block;
+    background-color: rgb(9, 0, 69);
+    height: 700px;
+    width: 500px;
+    padding: 50px;
+}
+.box{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+}
+.display{
+    border: 2px solid greenyellow;
+    overflow-x: auto;
+    overflow-y: hidden;
+    font-size: 70px;
+    width: 100%;
+    height: 100px;
+    margin: 0 auto;
+    background-color: rgb(224, 224, 224);
+}
+.display input{
+    width: 100%;
+    height: 100%;
+    font-size: 80px;
+}
+.buttons{
+    margin: 20px 0;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25% ;
+}
+.buttons button{
+    font-size: 25px;
+    padding: 40px;
+    transition: all 0.9s;
+}
+.buttons button:hover{
+    background-color: rgb(195, 195, 195);
+}
+.bc img{
+    width:24px ;
+}
+.bc{
+    background-color: rgb(187, 165, 165);
+    grid-column:1 / span 4;
+}
+.c{
+    color: red;
+    background-color: rgb(255, 160, 171);
+}
+.equal{
+    background-color: aqua;
+}

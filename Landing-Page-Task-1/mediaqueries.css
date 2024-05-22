@@ -1,0 +1,53 @@
+@media all and (max-width:1100px) {
+    .search{
+        display: none;
+    }
+    .menu{
+        display: none;
+    }
+    .nav2{
+        padding: 0 20px;
+        justify-content: space-between;
+    }
+    .hamburger{
+        display: unset;
+    }
+    .nav{
+        flex-direction: column;
+        height: auto;
+        gap:5px;
+        padding: 10px;
+    }
+    .contact{
+        font-size: 12px;
+    }
+    .launch{
+        font-size: 12px;
+        height: 100%;
+        text-overflow: ellipsis;
+    }
+    .nextblock{
+        padding: 20px;
+    }
+    .info h3{
+        font-size: 15px;
+    }
+    .about{
+        padding: 15px;
+    }
+    .info p{
+        white-space: nowrap; 
+    width: 50px; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    }
+    .services{
+        width: fit-content;
+    }
+    .service{
+        width: auto;
+    }
+    .out{
+        display: none;
+    }
+}
