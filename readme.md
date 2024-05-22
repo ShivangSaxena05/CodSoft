@@ -1,6 +1,6 @@
 # Web Development Internship Tasks
 
-Welcome to my repository for the Web Development internship tasks! In this repository, you'll find the solutions for the three tasks assigned during the internship. Each task is detailed below along with instructions on how to view the solution.
+Welcome to my repository for the Web Development internship tasks! In this repository, you'll find the solutions for the three tasks assigned during the internship at <b>CodSoft</b>. Each task is detailed below along with instructions on how to view the solution.
 
 ## Task 1: Landing Page (HTML/CSS/JavaScript)
 
