@@ -16,7 +16,7 @@ Description: In this task, I built a profile page using HTML and CSS. The profil
 
 Solution: To explore the code and interact with the profile page, visit the [Profile Page](https://github.com/ShivangSaxena05/CodSoft/tree/main/Portfolio-Task-2) directory.
 
-Live Preview: [Profile Page Live Demo](shivangsaxena-portfolio.42web.io)
+Live Preview: [Profile Page Live Demo](http://shivangsaxena-portfolio.42web.io)
 
 ## Task 3: Calculator (HTML/CSS/JavaScript)
 
@@ -24,4 +24,4 @@ Description: The third task involved creating a calculator application using HTM
 
 Solution: Check out the [Calculator](https://github.com/ShivangSaxena05/CodSoft/tree/main/Calculator-Task-3) directory to see the code.
 
-Live Preview: [Calculator Live Demo](simple-calculator.42web.io)
+Live Preview: [Calculator Live Demo](http://simple-calculator.42web.io)
