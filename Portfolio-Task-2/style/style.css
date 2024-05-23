@@ -103,7 +103,6 @@
 }
 .projects{
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
     margin: 40px;
@@ -170,8 +169,8 @@
     position: relative;
     height: 700px;
 }
-.img img{
-    width: 400px;
+.image img{
+    width: 300px;
     background-color: aquamarine;
     border-radius: 50px;
     border: 4px black dotted;
